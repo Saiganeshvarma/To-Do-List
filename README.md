@@ -13,5 +13,4 @@ A user-friendly to-do list application that helps you manage your tasks efficien
 ## Installation
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/Saiganeshvarma/To-Do-List.git
